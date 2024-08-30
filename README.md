@@ -1,4 +1,4 @@
-# leo_cherry20231210.aleo
+# leo_cherry.aleo
 
 ## Build Guide
 
